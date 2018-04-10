@@ -1,1 +1,1 @@
-web: python fake.py
+web: python app.py
