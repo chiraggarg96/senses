@@ -3,7 +3,7 @@ applications:
   memory: 128M
   instances: 1
   domain: eu-gb.mybluemix.net
-  name: Senses
-  host: Senses
+  name: Sense
+  host: Sense
   disk_quota: 1024M
   buildpack: python_buildpack
